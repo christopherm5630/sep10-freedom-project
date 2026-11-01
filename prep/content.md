@@ -27,11 +27,7 @@ Topic: **X**
       * one is free
       * the second is 3.99 or 29.99 a year which gives access to more features
     * it can be installed on phone and computer
-        
-    
-* Tech
-  * Detail
-  * [image text](image URL)
+
 
 ##### Hardware
 * Tech
