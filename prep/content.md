@@ -35,9 +35,13 @@ Topic: **Sports**
     * it is a gps vest
     * it measure speed and distance ran
     * it cost 179.99 dollars per year
+    * it has an app where you can see your data
     * [Gps vest](https://m.media-amazon.com/images/I/718TGCw9iZL.jpg)
-  * the second hardware I found was 
-  * [image text](image URL)
+  * the second hardware I found was ENGO 3
+    * it is sports glasses
+    * it displays pace and performance information
+    * it cost around 400 dollars
+    * [glasses](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRYUvm0vqTj3FVAXYug7_PyTUHMvqaoVw6FAMB1QUbZ7z4X51Pcp3fOPr&s=10)
 
 ## Part B: possible future technology
 * Idea
