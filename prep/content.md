@@ -30,8 +30,13 @@ Topic: **Sports**
 
 
 ##### Hardware
-* Tech
-  * Detail
+* I first searched "SPort hardware technology"
+  * The first hardware I found was Cataapult One
+    * it is a gps vest
+    * it measure speed and distance ran
+    * it cost 179.99 dollars per year
+    * [Gps vest](https://m.media-amazon.com/images/I/718TGCw9iZL.jpg)
+  * the second hardware I found was 
   * [image text](image URL)
 
 ## Part B: possible future technology
