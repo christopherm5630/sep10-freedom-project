@@ -30,7 +30,7 @@ Topic: **Sports**
 
 
 ##### Hardware
-* I first searched "SPort hardware technology"
+* I first searched "Sports hardware that uses technology"
   * The first hardware I found was Cataapult One
     * it is a gps vest
     * it measure speed and distance ran
@@ -41,8 +41,12 @@ Topic: **Sports**
     * it is sports glasses
     * it displays pace and performance information
     * it cost around 400 dollars
-    * [glasses](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRYUvm0vqTj3FVAXYug7_PyTUHMvqaoVw6FAMB1QUbZ7z4X51Pcp3fOPr&s=10)
-
+    * [Sports glasses](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRYUvm0vqTj3FVAXYug7_PyTUHMvqaoVw6FAMB1QUbZ7z4X51Pcp3fOPr&s=10)
+  * the third piece of hardware I found was WHOOP
+    * it monitors sleep,heart-rate, and recovery indicators
+    * its mostly used to track recovery
+    * it cost 200-250 dollars per year
+    * [WHOOP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1J0PFtJld5s81cK0JlPNe_0SYWnROzzmWDz-S032l4_C4u6bFHVltpsI&s=10)
 ## Part B: possible future technology
 * Idea
   * Detail
