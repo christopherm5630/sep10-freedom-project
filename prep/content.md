@@ -7,51 +7,14 @@ Topic: **Sports**
 # categories:
 
 * analyzing/performance data
-  * 
+  * some of the tech that analyzes:[Onform](https://onform.com/),Cataapult One, WHOOP, ENGO 3.
+  * these tech would track data and use that data to help analyze what you need to improve on so you can do better and improve in the future.
+  * this type of tech is mostly used while playing your sports or when you are at practice so you know what to do to recover so that you can preform better.
 * other tech that doesn't analyze data
-  
-## Part A: existing technology
-
-##### Software
-* First i searched "Sports apps"
-  * the first app i found was [Onform](https://onform.com/)
-    * it helps analyze what you need to improve on
-    * it gives visual feedback on how to improve your form
-    * 14 day free trail
-    * then app can be used on a  smartphone.
-    * it is easy to navigate.
-  * the second app i found was [Proxi Sports](https://proxiapp.net/)
-    * it helps you find people to play games with
-    * there is a variety of different sports
-    * you can make group chats to plan events
-    * the app can only be used on a smartphone
-  * the third app i found was [Graft](https://graft.fit/)
-    * it helps track progress and performance in games and practices
-    * it helps make a schedule for events
-    * two different prices for subscription
-      * one is free
-      * the second is 3.99 or 29.99 a year which gives access to more features
-    * it can be installed on phone and computer
-
-
-##### Hardware
-* I first searched "Sports hardware that uses technology"
-  * The first hardware I found was Cataapult One
-    * it is a gps vest
-    * it measure speed and distance ran
-    * it cost 179.99 dollars per year
-    * it has an app where you can see your data
-    * [Gps vest](https://m.media-amazon.com/images/I/718TGCw9iZL.jpg)
-  * the second hardware I found was ENGO 3
-    * it is sports glasses
-    * it displays pace and performance information
-    * it cost around 400 dollars
-    * [Sports glasses](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRYUvm0vqTj3FVAXYug7_PyTUHMvqaoVw6FAMB1QUbZ7z4X51Pcp3fOPr&s=10)
-  * the third piece of hardware I found was WHOOP
-    * it monitors sleep,heart-rate, and recovery indicators
-    * its mostly used to track recovery
-    * it cost 200-250 dollars per year
-    * [WHOOP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1J0PFtJld5s81cK0JlPNe_0SYWnROzzmWDz-S032l4_C4u6bFHVltpsI&s=10)
+  * some other tech that I found:[Proxi Sports](https://proxiapp.net/), and [Graft](https://graft.fit/)
+  * these apps would help organize events
+    * games,training, and days off
+  * these apps help you stay more organized
 ## Part B: possible future technology
 * Idea
   * Detail
