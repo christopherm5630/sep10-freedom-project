@@ -2,9 +2,14 @@
 Topic: **Sports**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Sports have changed overtime with technology being used more
+* Overtime technology has started to slowly become a thing that is almost used in all sports.
+# categories:
 
+* analyzing/performance data
+  * 
+* other tech that doesn't analyze data
+  
 ## Part A: existing technology
 
 ##### Software
